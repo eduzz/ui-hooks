@@ -15,3 +15,5 @@ yarn add @eduzz/ui-hooks
 
 - [useBoolean](https://github.com/eduzz/ui-hooks/blob/master/useBoolean/index.md).
 - [useCallbackGenerator](https://github.com/eduzz/ui-hooks/blob/master/useCallbackGenerator/index.md).
+- [useMediaBreakpoint](https://github.com/eduzz/ui-hooks/blob/master/useMediaBreakpoint/index.md).
+- [useMediaQuery](https://github.com/eduzz/ui-hooks/blob/master/useMediaQuery/index.md).
