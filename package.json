@@ -1,7 +1,7 @@
 {
   "name": "@eduzz/ui-hooks",
   "description": "Eduzz Hooks",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": ["react-hooks", "hooks", "react", "eduzz"],
   "main": "./index.js",
   "types": "./index.d.ts",
@@ -23,6 +23,7 @@
     "lint": "eslint . --ext js,ts,tsx"
   },
   "dependencies": {
+    "@eduzz/ui-tokens": "^1",
     "lodash-es": "^4"
   },
   "devDependencies": {

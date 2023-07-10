@@ -12,6 +12,11 @@
   resolved "https://registry.yarnpkg.com/@eduzz/eslint-config/-/eslint-config-0.0.3.tgz#5de434d3f25eaae64d20703a8fe2bbcaaaa21133"
   integrity sha512-Se9tqREVhlVThtn+1Oh0npTnZDTEQZuS58LsPoIrDcltyH1uci6AKgpQNeDSsO4J0e6IRwReKNi8SJNYf4l8Jw==
 
+"@eduzz/ui-tokens@^1":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@eduzz/ui-tokens/-/ui-tokens-1.0.0.tgz#da5db932d13930836d060f6ad63ac813914293ba"
+  integrity sha512-ID+t8nb2+ahQRO8IbuwcIhr9rWNKTKTj95zzaW9D6YKrP2J8GHdawlwaccDnPjhd2zP89GU7lgoB31uyZ/kgkQ==
+
 "@eslint-community/eslint-utils@^4.2.0":
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/@eslint-community/eslint-utils/-/eslint-utils-4.4.0.tgz#a23514e8fb9af1269d5f7788aa556798d61c6b59"
